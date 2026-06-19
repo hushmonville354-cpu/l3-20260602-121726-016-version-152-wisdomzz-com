@@ -1,16 +1,13 @@
-﻿# website-upload-20260602-121726-016
+# 高清亚洲电影-亚洲电影片库-高清电影免费在线观看
 
-Batch 16 of 38. Contains extracted static website versions. The original zip files are not committed.
+本目录为纯静态电影网站，可直接上传到静态空间或对象存储。
 
-| Directory | Source zip |
-| --- | --- |
-| version-151 | project-bolt-sb1-3anksma6-chatgpt (1).zip |
-| version-152 | project-bolt-sb1-3bsk3sgt - 副本-chatgpt (1) (moved 1).zip |
-| version-153 | project-bolt-sb1-3bsk3sgt - 副本-chatgpt (1).zip |
-| version-154 | project-bolt-sb1-3bsk3sgt-chatgpt (1) (moved 1).zip |
-| version-155 | project-bolt-sb1-3bsk3sgt-chatgpt (1) (moved 2).zip |
-| version-156 | project-bolt-sb1-3bsk3sgt-chatgpt (1).zip |
-| version-157 | project-bolt-sb1-3ceefb2q - 副本-chatgpt (1).zip |
-| version-158 | project-bolt-sb1-3ceefb2q-chatgpt (1) (moved 1).zip |
-| version-159 | project-bolt-sb1-3ceefb2q-chatgpt (1) (moved 2).zip |
-| version-160 | project-bolt-sb1-3ceefb2q-chatgpt (1).zip |
+- 影片数据：2000 部
+- 独立详情页：2000 个
+- 独立分类页：10 个
+- 首页：index.html
+- 分类总览：categories.html
+- 热播榜：ranking.html
+- 站点地图：sitemap.xml
+
+所有 HTML 页面均已插入百度统计脚本，页面可见区域不显示制作规则或统计代码说明。
